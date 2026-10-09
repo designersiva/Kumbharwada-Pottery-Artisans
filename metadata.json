@@ -1,0 +1,6 @@
+{
+  "name": "Kumbharwada Pottery Artisans",
+  "description": "Digital marketplace and wholesale platform connecting Mumbai's Dharavi Kumbharwada pottery artisans with bulk buyers, retailers, decorators, and individuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
